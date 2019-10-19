@@ -4,7 +4,7 @@ A clone of the original todoist app.
 
 ### Demo Link
 
-link: []()
+link: [https://todoist-clone.netlify.com](https://todoist-clone.netlify.com)
 
 ### Technologies Used
 
